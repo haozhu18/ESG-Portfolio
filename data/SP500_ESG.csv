@@ -1,0 +1,508 @@
+ticker,weight,ISIN,total_score,govern_score,social_score,environ_score,industry,company
+A,0.000916,US00846U1016,65.58,62.58,59.37,80.35,Heathcare Information and Technology,"Agilent Technologies, Inc. (NYSE:A)"
+AAL,0.000665,US02376R1023,53.72,64.99,56.09,42.98,Air Transport,American Airlines Group Inc. (NasdaqGS:AAL)
+AAP,0.0005059999999999999,US00751Y1064,47.37,62.0,43.87,40.93,Retail (Automotive),"Advance Auto Parts, Inc. (NYSE:AAP)"
+AAPL,0.042218,US0378331005,69.33,54.68,56.8,89.42,Computers/Peripherals,Apple Inc. (NasdaqGS:AAPL)
+ABBV,0.005828,US00287Y1091,66.26,68.46,60.53,73.94,Drugs (Biotechnology),AbbVie Inc. (NYSE:ABBV)
+ABC,0.000614,US03073E1055,53.88,58.48,44.57,65.1,Healthcare Support Services,AmerisourceBergen Corporation (NYSE:ABC)
+ABMD,0.000808,US0036541003,45.95,52.12,40.03,49.2,Healthcare Products,"Abiomed, Inc. (NasdaqGS:ABMD)"
+ABT,0.005268,US0028241000,63.5,58.92,60.44,74.5,Healthcare Products,Abbott Laboratories (NYSE:ABT)
+ACN,0.004494,IE00B4BNMY34,74.76,77.15,68.72,81.83,Computer Services,Accenture plc (NYSE:ACN)
+ADBE,0.0054659999999999995,US00724F1012,68.17,65.99,66.06,73.17,Software (System & Application),Adobe Inc. (NasdaqGS:ADBE)
+ADI,0.001381,US0326541051,76.86,64.65,81.4,80.52,Semiconductor,"Analog Devices, Inc. (NasdaqGS:ADI)"
+ADM,0.00114,US0394831020,57.14,66.24,49.26,59.65,Farming/Agriculture,Archer-Daniels-Midland Company (NYSE:ADM)
+ADP,0.002676,US0530151036,54.93,59.63,47.71,61.83,Information Services,"Automatic Data Processing, Inc. (NasdaqGS:ADP)"
+ADS,0.00045700000000000005,US0185811082,51.59,63.05,40.95,58.0,Information Services,Alliance Data Systems Corporation (NYSE:ADS)
+ADSK,0.001373,US0527691069,62.18,66.85,53.6,71.17,Software (System & Application),"Autodesk, Inc. (NasdaqGS:ADSK)"
+AEE,0.000621,US0236081024,62.63,74.95,61.65,56.43,Utility (General),Ameren Corporation (NYSE:AEE)
+AEP,0.001407,US0255371017,67.42,79.15,73.86,56.62,Power,"American Electric Power Company, Inc. (NYSE:AEP)"
+AES,0.00037400000000000004,US00130H1059,63.87,69.59,73.34,54.37,Power,The AES Corporation (NYSE:AES)
+AET,0.002698,US00817Y1082,59.76,71.04,49.53,64.65,,
+AFL,0.001471,US0010551028,56.25,51.52,67.1,50.67,Insurance (Life),Aflac Incorporated (NYSE:AFL)
+AGN,0.0024850000000000002,IE00BY9D5467,61.92,65.02,54.76,71.09,Drugs (Pharmaceutical),Allergan plc (NYSE:AGN)
+AIG,0.0019199999999999998,US0268747849,56.12,48.01,63.78,58.25,Insurance (General),"American International Group, Inc. (NYSE:AIG)"
+AIV,0.000278,US03748R1014,48.5,52.19,53.31,42.12,R.E.I.T.,Apartment Investment and Management Company (NYSE:AIV)
+AIZ,0.00023700000000000001,US04621X1081,52.9,52.71,51.62,54.5,Insurance (General),"Assurant, Inc. (NYSE:AIZ)"
+AJG,0.000552,US3635761097,54.77,52.73,60.89,50.83,Insurance (General),Arthur J. Gallagher & Co. (NYSE:AJG)
+AKAM,0.0004940000000000001,US00971T1016,61.25,60.09,58.73,66.0,Software (Internet),"Akamai Technologies, Inc. (NasdaqGS:AKAM)"
+ALB,0.00045,US0126531013,61.47,65.87,67.1,53.79,Chemical (Specialty),Albemarle Corporation (NYSE:ALB)
+ALGN,0.00116,US0162551016,49.6,56.5,45.23,49.2,Healthcare Products,"Align Technology, Inc. (NasdaqGS:ALGN)"
+ALK,0.000337,US0116591092,51.79,63.87,55.98,38.37,Air Transport,"Alaska Air Group, Inc. (NYSE:ALK)"
+ALL,0.001395,US0200021014,62.46,58.72,65.45,64.0,Insurance (Prop/Cas.),The Allstate Corporation (NYSE:ALL)
+ALLE,0.000344,IE00BFRT3W74,55.53,72.3,55.86,44.75,Building Materials,Allegion plc (NYSE:ALLE)
+ALXN,0.001228,US0153511094,45.76,48.72,37.87,56.45,Drugs (Biotechnology),"Alexion Pharmaceuticals, Inc. (NasdaqGS:ALXN)"
+AMAT,0.001526,US0382221051,66.32,59.75,67.3,69.57,Semiconductor Equip,"Applied Materials, Inc. (NasdaqGS:AMAT)"
+AMD,0.001092,US0079031078,69.37,54.45,77.28,71.79,Semiconductor,"Advanced Micro Devices, Inc. (NasdaqGS:AMD)"
+AME,0.0007440000000000001,US0311001004,47.08,58.65,46.22,40.59,Electrical Equipment,"AMETEK, Inc. (NYSE:AME)"
+AMG,0.00031099999999999997,US0082521081,49.16,52.28,55.32,38.64,Investments & Asset Management,"Affiliated Managers Group, Inc. (NYSE:AMG)"
+AMGN,0.005424,US0311621009,57.73,64.64,42.18,77.43,Drugs (Biotechnology),Amgen Inc. (NasdaqGS:AMGN)
+AMP,0.000867,US03076C1062,58.88,71.8,50.12,51.9,Investments & Asset Management,"Ameriprise Financial, Inc. (NYSE:AMP)"
+AMT,0.0025629999999999997,US03027X1000,53.2,56.69,50.95,52.27,R.E.I.T.,American Tower Corporation (REIT) (NYSE:AMT)
+AMZN,0.033273000000000004,US0231351067,44.82,46.48,47.38,40.71,Retail (Online),"Amazon.com, Inc. (NasdaqGS:AMZN)"
+ANDV,0.000863,US03349M1053,61.98,75.12,66.72,47.18,,
+ANET,0.000543,US0404131064,53.76,52.85,53.57,54.49,Telecom. Equipment,"Arista Networks, Inc. (NYSE:ANET)"
+ANSS,0.00063,US03662Q1058,49.17,59.2,46.72,44.5,Software (System & Application),"ANSYS, Inc. (NasdaqGS:ANSS)"
+ANTM,0.002909,US0367521038,59.3,69.27,47.14,69.2,Healthcare Support Services,"Anthem, Inc. (NYSE:ANTM)"
+AON,0.001526,GB00B5BT0K07,54.94,54.06,59.9,50.75,Insurance (General),Aon plc (NYSE:AON)
+AOS,0.000314,US8318652091,47.43,59.45,42.71,44.04,Building Materials,A. O. Smith Corporation (NYSE:AOS)
+APA,0.000745,US0374111054,62.55,63.86,72.2,50.58,Oil/Gas (Production and Exploration),Apache Corporation (NYSE:APA)
+APC,0.0014269999999999999,US0325111070,55.77,58.02,62.37,46.62,,
+APD,0.0014960000000000002,US0091581068,69.14,71.68,69.21,67.5,Chemical (Specialty),"Air Products and Chemicals, Inc. (NYSE:APD)"
+APH,0.001158,US0320951017,58.09,55.5,64.65,53.97,Electronics (General),Amphenol Corporation (NYSE:APH)
+APTV,0.0009029999999999999,JE00B783TY65,71.54,62.59,70.1,79.57,Auto Parts,Aptiv PLC (NYSE:APTV)
+ARE,0.000529,US0152711091,56.82,64.72,39.45,63.94,R.E.I.T.,"Alexandria Real Estate Equities, Inc. (NYSE:ARE)"
+ARNC,0.000386,US03965L1008,51.56,65.0,48.86,42.74,Aerospace/Defense,Arconic Inc. (NYSE:ARNC)
+ATVI,0.002572,US00507V1098,47.35,52.39,47.57,42.83,Entertainment,"Activision Blizzard, Inc. (NasdaqGS:ATVI)"
+AVB,0.000998,US0534841012,66.37,67.53,61.34,69.28,R.E.I.T.,"AvalonBay Communities, Inc. (NYSE:AVB)"
+AVGO,0.004366,US11135F1012,60.78,68.52,56.64,59.57,Semiconductor,Broadcom Inc. (NasdaqGS:AVGO)
+AVY,0.000383,US0536111091,68.85,63.6,74.03,67.6,Packaging & Container,Avery Dennison Corporation (NYSE:AVY)
+AWK,0.000628,US0304201033,70.41,77.75,75.25,63.11,Utility (Water),"American Water Works Company, Inc. (NYSE:AWK)"
+AXP,0.0030859999999999998,US0258161092,58.33,56.29,63.73,55.15,Financial Svcs. (Non-bank & Insurance),American Express Company (NYSE:AXP)
+AZO,0.000828,US0533321024,50.85,65.25,48.85,42.86,Retail (Automotive),"AutoZone, Inc. (NYSE:AZO)"
+BA,0.008273,US0970231058,52.3,57.67,45.58,54.42,Aerospace/Defense,The Boeing Company (NYSE:BA)
+BAC,0.011156000000000001,US0605051046,69.61,61.96,69.8,79.08,Bank (Money Center),Bank of America Corporation (NYSE:BAC)
+BAX,0.001556,US0718131099,67.43,67.97,62.14,76.3,Healthcare Products,Baxter International Inc. (NYSE:BAX)
+BBT,0.0015279999999999998,US0549371070,49.04,49.01,57.09,40.5,,
+BBY,0.000781,US0865161014,66.42,67.72,60.67,72.07,Retail (Special Lines),"Best Buy Co., Inc. (NYSE:BBY)"
+BDX,0.002866,US0758871091,64.61,60.28,58.4,81.0,Healthcare Products,"Becton, Dickinson and Company (NYSE:BDX)"
+BEN,0.000377,US3546131018,60.02,61.15,53.5,65.56,Investments & Asset Management,"Franklin Resources, Inc. (NYSE:BEN)"
+BF.B,0.00034700000000000003,US1156372096,63.64,66.87,59.56,66.01,Beverage (Alcoholic),Brown-Forman Corporation (NYSE:BF.B)
+BHF,0.00021400000000000002,US10922N1037,47.65,51.52,55.55,34.33,Insurance (Life),"Brighthouse Financial, Inc. (NasdaqGS:BHF)"
+BHGE,0.00056,US05722G1004,64.56,64.65,64.79,64.31,,
+BIIB,0.002876,US09062X1037,69.3,64.94,63.16,85.59,Drugs (Biotechnology),Biogen Inc. (NasdaqGS:BIIB)
+BK,0.0019329999999999998,US0640581007,66.28,61.92,66.25,71.83,Investments & Asset Management,The Bank of New York Mellon Corporation (NYSE:BK)
+BKNG,0.003825,US09857L1089,45.99,60.05,44.2,38.0,Retail (Online),Booking Holdings Inc. (NasdaqGS:BKNG)
+BLK,0.002352,US09247X1019,62.4,63.87,64.06,58.77,Investments & Asset Management,"BlackRock, Inc. (NYSE:BLK)"
+BLL,0.0006129999999999999,US0584981064,72.61,65.05,81.66,69.43,Packaging & Container,Ball Corporation (NYSE:BLL)
+BMY,0.004105,US1101221083,65.36,66.26,55.45,82.14,Drugs (Pharmaceutical),Bristol-Myers Squibb Company (NYSE:BMY)
+BR,0.000614,US11133T1034,50.31,54.55,45.49,54.0,Information Services,"Broadridge Financial Solutions, Inc. (NYSE:BR)"
+BRK.B,0.016964,US0846707026,46.75,43.57,55.46,41.45,,
+BSX,0.002184,US1011371077,64.89,51.83,61.98,85.8,Healthcare Products,Boston Scientific Corporation (NYSE:BSX)
+BWA,0.000361,US0997241064,66.15,60.32,64.05,72.71,Auto Parts,BorgWarner Inc. (NYSE:BWA)
+BXP,0.000752,US1011211018,65.73,75.51,54.73,66.64,R.E.I.T.,"Boston Properties, Inc. (NYSE:BXP)"
+C,0.007333,US1729674242,64.45,54.98,65.55,75.25,Bank (Money Center),Citigroup Inc. (NYSE:C)
+CA,0.000551,US12673P1057,66.64,72.95,60.34,70.83,,
+CAG,0.00053,US2058871029,57.11,76.39,47.4,54.43,Food Processing,"Conagra Brands, Inc. (NYSE:CAG)"
+CAH,0.000678,US14149Y1082,55.93,62.89,45.48,66.4,Healthcare Support Services,"Cardinal Health, Inc. (NYSE:CAH)"
+CAT,0.003668,US1491231015,59.74,54.68,51.54,70.05,Construction Supplies,Caterpillar Inc. (NYSE:CAT)
+CB,0.002499,CH0044328745,56.49,54.54,61.53,53.58,Insurance (Prop/Cas.),Chubb Limited (NYSE:CB)
+CBOE,0.00043799999999999997,US12503M1080,46.57,51.6,54.59,31.64,,
+CBRE,0.0005690000000000001,US12504L1098,63.35,71.05,57.16,62.2,Real Estate (Operations & Services),"CBRE Group, Inc. (NYSE:CBRE)"
+CBS,0.000772,US1248572026,44.96,58.38,36.31,48.84,,
+CCI,0.0018449999999999999,US22822V1017,47.92,61.8,41.88,42.04,R.E.I.T.,Crown Castle International Corp. (REIT) (NYSE:CCI)
+CCL,0.001039,PA1436583006,60.12,68.69,61.44,53.62,Hotel/Gaming,Carnival Corporation & Plc (NYSE:CCL)
+CDNS,0.000513,US1273871087,50.18,56.15,50.1,45.33,Software (System & Application),"Cadence Design Systems, Inc. (NasdaqGS:CDNS)"
+CELG,0.002561,US1510201049,59.99,58.48,49.2,81.25,,
+CERN,0.0008539999999999999,US1567821046,52.32,67.43,42.2,52.4,Heathcare Information and Technology,Cerner Corporation (NasdaqGS:CERN)
+CF,0.000515,US1252691001,51.33,66.25,47.67,45.19,Chemical (Specialty),"CF Industries Holdings, Inc. (NYSE:CF)"
+CFG,0.00074,US1746101054,45.28,49.66,50.12,34.58,Banks (Regional),"Citizens Financial Group, Inc. (NYSE:CFG)"
+CHD,0.000587,US1713401024,65.34,62.75,67.12,65.14,Household Products,"Church & Dwight Co., Inc. (NYSE:CHD)"
+CHRW,0.00055,US12541W2098,47.18,65.05,42.56,39.7,Transportation,"C.H. Robinson Worldwide, Inc. (NasdaqGS:CHRW)"
+CHTR,0.002325,US16119P1084,45.96,60.14,40.75,42.21,Cable TV,"Charter Communications, Inc. (NasdaqGS:CHTR)"
+CI,0.0020829999999999998,US1255091092,62.95,67.77,52.76,75.5,Healthcare Support Services,Cigna Corporation (NYSE:CI)
+CINF,0.000462,US1720621010,50.23,49.64,52.49,48.58,Insurance (Prop/Cas.),Cincinnati Financial Corporation (NasdaqGS:CINF)
+CL,0.002362,US1941621039,71.46,70.94,63.54,80.88,Household Products,Colgate-Palmolive Company (NYSE:CL)
+CLX,0.000781,US1890541097,70.03,68.55,65.46,76.3,Household Products,The Clorox Company (NYSE:CLX)
+CMA,0.000633,US2003401070,56.74,50.94,64.45,55.83,Banks (Regional),Comerica Incorporated (NYSE:CMA)
+CMCSA,0.006572,US20030N1019,60.11,63.9,60.93,54.68,,
+CME,0.002404,US12572Q1058,53.44,52.0,59.91,48.34,Financial Svcs. (Non-bank & Insurance),CME Group Inc. (NasdaqGS:CME)
+CMG,0.00044699999999999997,US1696561059,53.34,64.45,48.97,50.22,Restaurant/Dining,"Chipotle Mexican Grill, Inc. (NYSE:CMG)"
+CMI,0.000901,US2310211063,68.34,69.79,64.09,71.15,Construction Supplies,Cummins Inc. (NYSE:CMI)
+CMS,0.000551,US1258961002,78.45,78.75,88.75,71.42,Utility (General),CMS Energy Corporation (NYSE:CMS)
+CNC,0.001201,US15135B1017,44.69,48.58,38.46,51.23,Healthcare Support Services,Centene Corporation (NYSE:CNC)
+CNP,0.000528,US15189T1079,57.3,68.15,61.19,48.69,Utility (General),"CenterPoint Energy, Inc. (NYSE:CNP)"
+COF,0.0018399999999999998,US14040H1059,55.63,54.85,61.29,50.57,Financial Svcs. (Non-bank & Insurance),Capital One Financial Corporation (NYSE:COF)
+COG,0.00040599999999999995,US1270971039,52.27,62.98,47.41,50.17,Oil/Gas (Production and Exploration),Cabot Oil & Gas Corporation (NYSE:COG)
+COL,0.00093,US7743411016,70.61,70.5,68.89,72.44,,
+COO,0.000551,US2166484020,49.52,55.25,45.88,49.2,Healthcare Products,"The Cooper Companies, Inc. (NYSE:COO)"
+COP,0.0037649999999999997,US20825C1045,67.69,64.0,78.35,58.13,Oil/Gas (Production and Exploration),ConocoPhillips Company (NYSE:COP)
+COST,0.004169,US22160K1051,52.97,53.88,47.57,58.51,Retail (General),Costco Wholesale Corporation (NasdaqGS:COST)
+COTY,0.000236,US2220702037,51.94,56.18,56.67,43.51,Household Products,Coty Inc. (NYSE:COTY)
+CPB,0.00028,US1344291091,76.1,77.68,74.91,76.31,Food Processing,Campbell Soup Company (NYSE:CPB)
+CPRT,0.00043099999999999996,US2172041061,43.2,59.2,40.0,36.0,Business & Consumer Services,"Copart, Inc. (NasdaqGS:CPRT)"
+CRM,0.004903,US79466L3024,72.29,71.18,70.87,75.33,Software (System & Application),"salesforce.com, inc. (NYSE:CRM)"
+CSCO,0.009048,US17275R1023,80.17,67.75,84.54,84.12,Telecom. Equipment,"Cisco Systems, Inc. (NasdaqGS:CSCO)"
+CSX,0.002478,US1264081035,55.18,73.68,43.67,55.12,Transportation (Railroads),CSX Corporation (NasdaqGS:CSX)
+CTAS,0.0006900000000000001,US1729081059,52.44,55.55,60.02,43.88,Business & Consumer Services,Cintas Corporation (NasdaqGS:CTAS)
+CTL,0.000826,US1567001060,51.1,57.49,45.51,54.16,Telecom. Services,"CenturyLink, Inc. (NYSE:CTL)"
+CTSH,0.0018170000000000003,US1924461023,61.02,55.29,58.77,69.17,Computer Services,Cognizant Technology Solutions Corporation (NasdaqGS:CTSH)
+CTXS,0.0005769999999999999,US1773761002,57.22,59.05,59.78,51.83,Software (System & Application),"Citrix Systems, Inc. (NasdaqGS:CTXS)"
+CVS,0.003279,US1266501006,65.61,71.17,63.07,64.54,Healthcare Support Services,CVS Health Corporation (NYSE:CVS)
+CVX,0.009656,US1667641005,59.97,53.9,69.24,53.7,Oil/Gas (Integrated),Chevron Corporation (NYSE:CVX)
+CXO,0.0012490000000000001,US20605P1012,51.75,61.3,48.33,48.83,Oil/Gas (Production and Exploration),Concho Resources Inc. (NYSE:CXO)
+D,0.001857,US25746U1097,61.38,73.32,65.4,52.06,Utility (General),"Dominion Energy, Inc. (NYSE:D)"
+DAL,0.001442,US2473617023,57.99,65.59,58.44,52.05,Air Transport,"Delta Air Lines, Inc. (NYSE:DAL)"
+DE,0.001971,US2441991054,65.07,63.85,56.68,73.15,Farming/Agriculture,Deere & Company (NYSE:DE)
+DFS,0.001065,US2547091080,56.58,56.81,66.39,45.82,Financial Svcs. (Non-bank & Insurance),Discover Financial Services (NYSE:DFS)
+DG,0.001179,US2566771059,47.81,65.65,46.12,37.0,Retail (General),Dollar General Corporation (NYSE:DG)
+DGX,0.000593,US74834L1008,51.92,57.45,43.46,60.5,Healthcare Support Services,Quest Diagnostics Incorporated (NYSE:DGX)
+DHI,0.000584,US23331A1097,45.28,54.45,43.54,40.72,Homebuilding,"D.R. Horton, Inc. (NYSE:DHI)"
+DHR,0.002726,US2358511028,54.86,57.92,52.98,54.6,Healthcare Products,Danaher Corporation (NYSE:DHR)
+DIS,0.007004000000000001,US2546871060,64.03,66.58,61.94,65.64,Entertainment,The Walt Disney Company (NYSE:DIS)
+DISCA,0.000204,US25470F1049,50.32,65.98,43.03,49.24,,
+DISCK,0.00043499999999999995,US25470F3029,,,,,,
+DISH,0.000327,US25470M1099,43.69,50.16,39.12,46.36,Cable TV,DISH Network Corporation (NasdaqGS:DISH)
+DLR,0.000923,US2538681030,53.86,54.44,50.26,56.11,R.E.I.T.,"Digital Realty Trust, Inc. (NYSE:DLR)"
+DLTR,0.000788,US2567461080,50.15,68.52,46.29,41.43,Retail (General),"Dollar Tree, Inc. (NasdaqGS:DLTR)"
+DOV,0.0005269999999999999,US2600031080,54.93,66.15,46.28,55.48,Machinery,Dover Corporation (NYSE:DOV)
+DRE,0.000404,US2644115055,54.38,69.31,46.37,49.18,R.E.I.T.,Duke Realty Corporation (NYSE:DRE)
+DRI,0.000542,US2371941053,50.69,64.12,48.42,44.27,Restaurant/Dining,"Darden Restaurants, Inc. (NYSE:DRI)"
+DTE,0.000797,US2333311072,68.88,77.95,76.41,58.84,Utility (General),DTE Energy Company (NYSE:DTE)
+DUK,0.0022960000000000003,US26441C2044,62.8,71.19,75.51,49.68,Power,Duke Energy Corporation (NYSE:DUK)
+DVA,0.00037999999999999997,US23918K1088,53.61,48.17,49.86,66.9,Healthcare Support Services,DaVita Inc. (NYSE:DVA)
+DVN,0.000828,US25179M1036,68.15,73.57,73.69,57.94,Oil/Gas (Production and Exploration),Devon Energy Corporation (NYSE:DVN)
+DWDP,0.0060609999999999995,US26078J1007,57.24,71.35,52.51,52.56,,
+DXC,0.001077,US23355L1061,65.0,66.35,62.46,67.67,Computer Services,DXC Technology Company (NYSE:DXC)
+EA,0.0014529999999999999,US2855121099,51.95,63.65,47.41,49.0,Entertainment,Electronic Arts Inc. (NasdaqGS:EA)
+EBAY,0.001225,US2786421030,63.75,59.95,61.19,70.77,Retail (Online),eBay Inc. (NasdaqGS:EBAY)
+ECL,0.001621,US2788651006,61.24,70.89,54.86,60.79,Chemical (Specialty),Ecolab Inc. (NYSE:ECL)
+ED,0.000949,US2091151041,62.5,68.15,53.99,65.03,Utility (General),"Consolidated Edison, Inc. (NYSE:ED)"
+EFX,0.000634,US2944291051,41.41,53.15,35.07,39.63,Business & Consumer Services,Equifax Inc. (NYSE:EFX)
+EIX,0.0008869999999999999,US2810201077,62.84,75.09,65.35,54.36,Power,Edison International (NYSE:EIX)
+EL,0.001314,US5184391044,62.99,56.85,58.91,72.04,Household Products,The Estée Lauder Companies Inc. (NYSE:EL)
+EMN,0.0005679999999999999,US2774321002,65.42,66.55,68.55,61.97,Chemical (Diversified),Eastman Chemical Company (NYSE:EMN)
+EMR,0.001971,US2910111044,57.91,58.99,60.33,55.11,Electrical Equipment,Emerson Electric Co. (NYSE:EMR)
+EOG,0.003038,US26875P1012,60.26,64.67,61.3,55.92,Oil/Gas (Production and Exploration),"EOG Resources, Inc. (NYSE:EOG)"
+EQIX,0.001381,US29444U7000,59.38,60.95,50.53,71.33,R.E.I.T.,"Equinix, Inc. (REIT) (NasdaqGS:EQIX)"
+EQR,0.00098,US29476L1070,57.52,57.9,49.32,63.39,R.E.I.T.,Equity Residential (NYSE:EQR)
+EQT,0.000471,US26884L1098,63.07,59.26,73.05,54.38,Oil/Gas (Production and Exploration),EQT Corporation (NYSE:EQT)
+ES,0.000785,US30040W1080,74.83,77.39,74.13,73.88,Power,Eversource Energy (NYSE:ES)
+ESRX,0.002156,US30219G1085,53.48,66.28,40.82,60.92,,
+ESS,0.000653,US2971781057,51.78,50.35,42.74,59.64,R.E.I.T.,"Essex Property Trust, Inc. (NYSE:ESS)"
+ETFC,0.000554,US2692464017,49.78,52.64,60.26,34.98,Brokerage & Investment Banking,E*TRADE Financial Corporation (NasdaqGS:ETFC)
+ETN,0.001542,IE00B8KQN827,74.2,68.43,78.87,73.72,Electrical Equipment,Eaton Corporation plc (NYSE:ETN)
+ETR,0.000588,US29364G1031,65.64,75.59,72.51,55.54,Power,Entergy Corporation (NYSE:ETR)
+EVHC,0.00022400000000000002,US29414D1000,47.63,55.95,41.22,49.2,,
+EVRG,0.000602,US30034W1062,,,,,Power,"Evergy, Inc. (NYSE:EVRG)"
+EW,0.001451,US28176E1082,68.04,56.08,65.54,86.9,Healthcare Products,Edwards Lifesciences Corporation (NYSE:EW)
+EXC,0.0016879999999999998,US30161N1019,70.25,75.55,65.58,70.41,Power,Exelon Corporation (NasdaqGS:EXC)
+EXPD,0.000522,US3021301094,56.52,62.45,51.06,58.53,Transportation,"Expeditors International of Washington, Inc. (NasdaqGS:EXPD)"
+EXPE,0.000641,US30212P3038,42.75,47.6,43.25,38.71,Retail (Online),"Expedia Group, Inc. (NasdaqGS:EXPE)"
+EXR,0.000434,US30225T1025,42.1,49.29,37.53,40.13,R.E.I.T.,Extra Space Storage Inc. (NYSE:EXR)
+F,0.00147,US3453708600,61.09,60.78,74.39,52.4,Auto & Truck,Ford Motor Company (NYSE:F)
+FAST,0.000672,US3119001044,55.01,60.89,47.22,59.72,Retail (Distributors),Fastenal Company (NasdaqGS:FAST)
+FB,0.015871,US30303M1027,51.93,39.55,58.87,51.83,Software (Entertainment),"Facebook, Inc. (NasdaqGS:FB)"
+FBHS,0.000314,US34964C1062,48.65,58.0,47.46,43.85,Building Materials,"Fortune Brands Home & Security, Inc. (NYSE:FBHS)"
+FCX,0.000805,US35671D8570,64.92,80.52,71.06,46.76,Metals & Mining,Freeport-McMoRan Inc. (NYSE:FCX)
+FDX,0.0023769999999999998,US31428X1063,63.62,61.15,61.48,67.83,Transportation,FedEx Corporation (NYSE:FDX)
+FE,0.000729,US3379321074,59.61,73.08,59.35,52.31,Power,FirstEnergy Corp. (NYSE:FE)
+FFIV,0.00047000000000000004,US3156161024,49.59,57.2,51.54,43.12,Telecom. Equipment,"F5 Networks, Inc. (NasdaqGS:FFIV)"
+FIS,0.0014320000000000001,US31620M1062,47.41,61.49,42.65,42.83,Information Services,"Fidelity National Information Services, Inc. (NYSE:FIS)"
+FISV,0.0013449999999999998,US3377381088,46.64,55.79,42.09,45.83,Information Services,"Fiserv, Inc. (NasdaqGS:FISV)"
+FITB,0.00075,US3167731005,52.17,50.93,57.87,47.67,Banks (Regional),Fifth Third Bancorp (NasdaqGS:FITB)
+FL,0.00024900000000000004,US3448491049,48.59,61.79,49.6,38.0,Retail (Special Lines),"Foot Locker, Inc. (NYSE:FL)"
+FLIR,0.00033999999999999997,US3024451011,52.74,53.45,59.68,46.22,Electronics (General),"FLIR Systems, Inc. (NasdaqGS:FLIR)"
+FLR,0.000332,US3434121022,61.12,73.23,57.29,54.11,Engineering/Construction,Fluor Corporation (NYSE:FLR)
+FLS,0.00028700000000000004,US34354P1057,60.63,60.05,57.08,64.09,Machinery,Flowserve Corporation (NYSE:FLS)
+FLT,0.000816,US3390411052,46.32,58.68,42.33,42.0,Information Services,"FleetCor Technologies, Inc. (NYSE:FLT)"
+FMC,0.00047300000000000006,US3024913036,66.94,74.45,65.97,63.1,Chemical (Specialty),FMC Corporation (NYSE:FMC)
+FOX,0.0009050000000000001,US90130A2006,,,,,,
+FOXA,0.001962,US90130A1016,50.69,53.98,45.13,58.53,Broadcasting,Fox Corporation (NasdaqGS:FOXA)
+FRT,0.00036899999999999997,US3137472060,53.76,51.31,45.65,61.68,R.E.I.T.,Federal Realty Investment Trust (NYSE:FRT)
+FTI,0.000546,GB00BDSFG982,80.31,73.9,81.46,83.31,Oilfield Svcs/Equip.,TechnipFMC plc (NYSE:FTI)
+FTV.WD,0.0010429999999999999,US34959J1088,51.72,62.3,45.8,50.28,,
+GD,0.0023190000000000003,US3695501086,52.46,58.5,44.88,54.87,Aerospace/Defense,General Dynamics Corporation (NYSE:GD)
+GE,0.004257,US3696041033,63.72,58.88,63.23,67.17,Diversified,General Electric Company (NYSE:GE)
+GILD,0.004097,US3755581036,61.06,54.82,60.48,69.58,Drugs (Biotechnology),"Gilead Sciences, Inc. (NasdaqGS:GILD)"
+GIS,0.001019,US3703341046,70.9,67.63,66.7,78.03,Food Processing,"General Mills, Inc. (NYSE:GIS)"
+GLW,0.001157,US2193501051,60.89,60.62,56.22,65.14,Electronics (General),Corning Incorporated (NYSE:GLW)
+GM,0.001818,US37045V1008,63.18,71.78,66.79,55.99,Auto & Truck,General Motors Company (NYSE:GM)
+GOOG,0.014911,US02079K1079,,,,,,
+GOOGL,0.014634999999999999,US02079K3059,63.05,44.19,65.22,75.5,,
+GPC,0.000585,US3724601055,46.7,64.8,42.37,38.71,Retail (Distributors),Genuine Parts Company (NYSE:GPC)
+GPN,0.000813,US37940X1028,45.07,58.2,39.81,42.0,Information Services,Global Payments Inc. (NYSE:GPN)
+GPS,0.000254,US3647601083,68.05,72.29,67.98,65.1,Retail (Special Lines),"The Gap, Inc. (NYSE:GPS)"
+GRMN,0.000342,CH0114405324,59.79,56.24,59.07,63.14,Electronics (Consumer & Office),Garmin Ltd. (NasdaqGS:GRMN)
+GS,0.0032049999999999995,US38141G1040,68.79,62.0,59.62,87.17,Brokerage & Investment Banking,"The Goldman Sachs Group, Inc. (NYSE:GS)"
+GT,0.00023700000000000001,US3825501014,65.04,60.29,58.38,76.03,Rubber& Tires,The Goodyear Tire & Rubber Company (NasdaqGS:GT)
+GTXw,5.5e-05,US3665051054,,,,,,
+GWW,0.000655,US3848021040,71.09,66.33,68.0,78.03,Retail (Distributors),"W.W. Grainger, Inc. (NYSE:GWW)"
+HAL,0.001463,US4062161017,60.17,65.98,60.17,56.54,Oilfield Svcs/Equip.,Halliburton Company (NYSE:HAL)
+HAS,0.0005,US4180561072,64.65,61.15,66.59,64.94,Recreation,"Hasbro, Inc. (NasdaqGS:HAS)"
+HBAN,0.00066,US4461501045,53.38,55.23,60.67,43.25,Banks (Regional),Huntington Bancshares Incorporated (NasdaqGS:HBAN)
+HBI,0.000268,US4103451021,60.18,62.36,58.38,60.69,Apparel,Hanesbrands Inc. (NYSE:HBI)
+HCA,0.001534,US40412C1018,55.44,65.79,43.95,63.7,Hospitals/Healthcare Facilities,"HCA Healthcare, Inc. (NYSE:HCA)"
+HCP,0.000488,US40414L1098,62.89,61.17,59.37,66.82,,
+HD,0.009622,US4370761029,68.48,69.48,54.65,83.59,Retail (Building Supply),"The Home Depot, Inc. (NYSE:HD)"
+HES,0.0007599999999999999,US42809H1077,76.41,68.97,85.8,70.99,Oil/Gas (Production and Exploration),Hess Corporation (NYSE:HES)
+HFC,0.00045599999999999997,US4361061082,63.62,73.59,67.61,51.94,Oilfield Svcs/Equip.,HollyFrontier Corporation (NYSE:HFC)
+HIG,0.000713,US4165151048,68.36,68.28,67.22,69.67,Insurance (General),"The Hartford Financial Services Group, Inc. (NYSE:HIG)"
+HII,0.00046699999999999997,US4464131063,50.52,58.92,50.19,43.66,Aerospace/Defense,"Huntington Ingalls Industries, Inc. (NYSE:HII)"
+HLT,0.0009480000000000001,US43300A2033,66.0,65.69,59.56,71.84,Hotel/Gaming,Hilton Worldwide Holdings Inc. (NYSE:HLT)
+HOG,0.000321,US4128221086,54.57,69.59,57.1,44.54,Auto & Truck,"Harley-Davidson, Inc. (NYSE:HOG)"
+HOLX,0.000459,US4364401012,51.15,52.08,46.51,58.4,Healthcare Products,"Hologic, Inc. (NasdaqGS:HOLX)"
+HON,0.0050219999999999996,US4385161066,52.45,55.65,51.64,51.15,Diversified,Honeywell International Inc. (NYSE:HON)
+HP,0.000307,US4234521015,53.09,59.05,47.46,54.29,Oil/Gas (Production and Exploration),"Helmerich & Payne, Inc. (NYSE:HP)"
+HPE,0.000964,US42824C1099,78.5,72.25,83.76,77.81,Computers/Peripherals,Hewlett Packard Enterprise Company (NYSE:HPE)
+HPQ,0.001641,US40434L1052,86.25,71.59,83.7,97.64,Computers/Peripherals,HP Inc. (NYSE:HPQ)
+HRB,0.000215,US0936711052,48.77,66.79,49.93,36.5,Business & Consumer Services,"H&R Block, Inc. (NYSE:HRB)"
+HRL,0.00042800000000000005,US4404521001,60.25,64.48,51.49,67.24,Food Processing,Hormel Foods Corporation (NYSE:HRL)
+HRS,0.000805,US4138751056,51.0,59.69,52.8,43.99,,
+HSIC,0.000549,US8064071025,59.41,64.92,57.74,55.8,Healthcare Support Services,"Henry Schein, Inc. (NasdaqGS:HSIC)"
+HST,0.0006259999999999999,US44107P1049,71.88,72.13,63.12,78.26,R.E.I.T.,"Host Hotels & Resorts, Inc. (NYSE:HST)"
+HSY,0.00057,US4278661081,67.47,69.78,59.04,75.46,Food Processing,The Hershey Company (NYSE:HSY)
+HUM,0.001877,US4448591028,58.71,62.27,48.23,73.28,Healthcare Support Services,Humana Inc. (NYSE:HUM)
+IBM,0.005661,US4592001014,74.47,59.85,74.05,87.27,Computer Services,International Business Machines Corporation (NYSE:IBM)
+ICE,0.001748,US45866F1049,53.97,55.5,53.45,52.61,Financial Svcs. (Non-bank & Insurance),"Intercontinental Exchange, Inc. (NYSE:ICE)"
+IDXX,0.000872,US45168D1046,51.22,54.0,46.76,55.9,Healthcare Products,"IDEXX Laboratories, Inc. (NasdaqGS:IDXX)"
+IFF,0.000515,US4595061015,74.05,71.0,69.49,79.94,Chemical (Specialty),International Flavors & Fragrances Inc. (NYSE:IFF)
+ILMN,0.002171,US4523271090,60.1,54.73,61.4,64.19,Heathcare Information and Technology,"Illumina, Inc. (NasdaqGS:ILMN)"
+INCY,0.000488,US45337C1027,48.46,64.52,36.22,51.21,Drugs (Biotechnology),Incyte Corporation (NasdaqGS:INCY)
+INFO,0.000785,BMG475671050,63.07,59.3,59.55,68.5,Business & Consumer Services,IHS Markit Ltd. (NYSE:INFO)
+INTC,0.008676,US4581401001,86.02,78.78,90.35,86.76,Semiconductor,Intel Corporation (NasdaqGS:INTC)
+INTU,0.002388,US4612021034,66.19,67.59,61.32,72.33,Software (System & Application),Intuit Inc. (NasdaqGS:INTU)
+IP,0.000834,US4601461035,63.91,75.03,58.84,61.39,Packaging & Container,International Paper Company (NYSE:IP)
+IPG,0.000362,US4606901001,59.63,72.1,55.06,56.3,Advertising,"The Interpublic Group of Companies, Inc. (NYSE:IPG)"
+IPGP,0.00023799999999999998,US44980X1090,45.13,57.2,46.66,36.25,Electronics (General),IPG Photonics Corporation (NasdaqGS:IPGP)
+IQV,0.000848,US46266C1053,48.63,54.22,40.63,56.34,Heathcare Information and Technology,IQVIA Holdings Inc. (NYSE:IQV)
+IR,0.001026,IE00B6330302,71.6,69.15,75.15,70.04,Machinery,Ingersoll-Rand Plc (NYSE:IR)
+IRM,0.000388,US46284V1017,64.18,71.88,52.61,69.5,R.E.I.T.,Iron Mountain Incorporated (NYSE:IRM)
+ISRG,0.002648,US46120E6023,46.91,52.03,40.9,51.6,Healthcare Products,"Intuitive Surgical, Inc. (NasdaqGS:ISRG)"
+IT,0.000579,US3666511072,46.59,67.9,41.36,36.67,Computer Services,"Gartner, Inc. (NYSE:IT)"
+ITW,0.001789,US4523081093,70.1,65.4,66.14,76.49,Machinery,Illinois Tool Works Inc. (NYSE:ITW)
+IVZ,0.000381,BMG491BT1088,65.03,73.62,51.44,68.67,Investments & Asset Management,Invesco Ltd. (NYSE:IVZ)
+JBHT,0.00042300000000000004,US4456581077,45.69,55.25,42.21,42.84,Trucking,"J.B. Hunt Transport Services, Inc. (NasdaqGS:JBHT)"
+JCI,0.0013109999999999999,IE00BY7QL619,73.3,68.28,86.05,65.28,Building Materials,Johnson Controls International plc (NYSE:JCI)
+JEC,0.000371,US4698141078,51.98,61.42,43.5,53.87,,
+JEF,0.000268,US47233W1099,47.84,50.91,52.3,39.18,Diversified,Jefferies Financial Group Inc. (NYSE:JEF)
+JNJ,0.015182,US4781601046,70.39,70.02,60.77,88.17,Drugs (Pharmaceutical),Johnson & Johnson (NYSE:JNJ)
+JNPR,0.000421,US48203R1041,62.34,58.09,55.76,70.76,Telecom. Equipment,"Juniper Networks, Inc. (NYSE:JNPR)"
+JPM,0.015452,US46625H1005,71.44,61.97,68.1,87.0,Bank (Money Center),JPMorgan Chase & Co. (NYSE:JPM)
+JWN,0.00028700000000000004,US6556641008,63.12,60.48,57.43,71.5,Retail (General),"Nordstrom, Inc. (NYSE:JWN)"
+K,0.000717,US4878361082,64.9,70.92,51.15,76.29,Food Processing,Kellogg Company (NYSE:K)
+KEY,0.0008460000000000001,US4932671088,62.73,59.23,69.21,60.25,Banks (Regional),KeyCorp (NYSE:KEY)
+KHC,0.0014,US5007541064,55.97,70.36,46.14,56.93,Food Processing,The Kraft Heinz Company (NasdaqGS:KHC)
+KIM,0.000279,US49446R1095,59.65,66.16,49.75,62.21,R.E.I.T.,Kimco Realty Corporation (NYSE:KIM)
+KLAC,0.000629,US4824801009,68.29,68.15,64.31,71.86,Semiconductor Equip,KLA Corporation (NasdaqGS:KLAC)
+KMB,0.0016120000000000002,US4943681035,76.07,80.79,70.32,79.28,Household Products,Kimberly-Clark Corporation (NYSE:KMB)
+KMI,0.001389,US49456B1017,56.89,62.22,59.81,49.75,Oil/Gas Distribution,"Kinder Morgan, Inc. (NYSE:KMI)"
+KMX,0.000529,US1431301027,47.85,59.65,44.03,43.79,Retail (Automotive),"CarMax, Inc. (NYSE:KMX)"
+KO,0.007169,US1912161007,59.06,60.05,55.51,62.42,Beverage (Soft),The Coca-Cola Company (NYSE:KO)
+KORS,0.000413,VGG607541015,46.57,55.88,49.09,37.03,,
+KR,0.000942,US5010441013,64.57,74.92,55.1,68.01,Retail (Grocery and Food),The Kroger Co. (NYSE:KR)
+KSS,0.000515,US5002551043,63.2,71.59,56.01,65.43,Retail (General),Kohl's Corporation (NYSE:KSS)
+KSU,0.0004969999999999999,US4851703029,52.25,64.78,53.36,42.04,Transportation (Railroads),Kansas City Southern (NYSE:KSU)
+L,0.000566,US5404241086,44.54,44.57,50.72,37.92,Insurance (Prop/Cas.),Loews Corporation (NYSE:L)
+LB,0.00028,US5017971046,62.74,74.55,60.08,57.36,Retail (Special Lines),"L Brands, Inc. (NYSE:LB)"
+LEG,0.00023199999999999997,US5246601075,49.75,58.5,47.89,45.9,Furn/Home Furnishings,"Leggett & Platt, Incorporated (NYSE:LEG)"
+LEN,0.000558,US5260571048,48.06,56.65,43.87,46.71,Homebuilding,Lennar Corporation (NYSE:LEN)
+LH,0.000715,US50540R4092,50.3,53.86,47.2,51.6,Healthcare Support Services,Laboratory Corporation of America Holdings (NYSE:LH)
+LKQ,0.000408,US5018892084,46.57,55.88,43.49,43.43,Retail (Distributors),LKQ Corporation (NasdaqGS:LKQ)
+LLL,0.000672,US5024131071,51.34,53.58,49.56,51.19,,
+LLY,0.0041670000000000006,US5324571083,57.53,58.93,51.24,67.19,Drugs (Pharmaceutical),Eli Lilly and Company (NYSE:LLY)
+LMT,0.003482,US5398301094,63.47,66.0,55.05,69.71,Aerospace/Defense,Lockheed Martin Corporation (NYSE:LMT)
+LNC,0.000596,US5341871094,59.61,63.35,53.3,61.58,Insurance (Life),Lincoln National Corporation (NYSE:LNC)
+LNT,0.000395,US0188021085,57.41,73.25,60.42,46.6,Power,Alliant Energy Corporation (NasdaqGS:LNT)
+LOW,0.003747,US5486611073,60.42,69.62,54.93,60.13,Retail (Building Supply),"Lowe's Companies, Inc. (NYSE:LOW)"
+LRCX,0.000959,US5128071082,69.6,66.65,62.86,77.32,Semiconductor Equip,Lam Research Corporation (NasdaqGS:LRCX)
+LUV,0.001289,US8447411088,57.71,65.59,52.58,57.96,Air Transport,Southwest Airlines Co. (NYSE:LUV)
+LYB,0.0013460000000000002,NL0009434992,62.19,64.81,63.8,59.15,Chemical (Basic),LyondellBasell Industries N.V. (NYSE:LYB)
+M,0.00042800000000000005,US55616P1049,64.53,65.99,61.64,66.79,Retail (General),"Macy's, Inc. (NYSE:M)"
+MA,0.008267,US57636Q1040,62.29,70.25,56.28,64.67,Information Services,Mastercard Incorporated (NYSE:MA)
+MAA,0.00045599999999999997,US59522J1034,47.38,52.22,41.37,48.25,R.E.I.T.,"Mid-America Apartment Communities, Inc. (NYSE:MAA)"
+MAC,0.000236,US5543821012,58.24,48.73,42.01,77.57,R.E.I.T.,The Macerich Company (NYSE:MAC)
+MAR,0.001497,US5719032022,59.67,64.89,55.61,59.96,Hotel/Gaming,"Marriott International, Inc. (NasdaqGS:MAR)"
+MAS,0.000463,US5745991068,61.99,66.48,60.71,60.31,Building Materials,Masco Corporation (NYSE:MAS)
+MAT,0.000221,US5770811025,58.44,63.48,52.89,61.19,Recreation,"Mattel, Inc. (NasdaqGS:MAT)"
+MCD,0.0052380000000000005,US5801351017,57.68,53.79,55.69,61.86,Restaurant/Dining,McDonald's Corporation (NYSE:MCD)
+MCHP,0.000731,US5950171042,59.89,62.05,61.4,57.23,Semiconductor,Microchip Technology Incorporated (NasdaqGS:MCHP)
+MCK,0.001077,US58155Q1031,57.12,71.86,43.64,63.7,Healthcare Support Services,McKesson Corporation (NYSE:MCK)
+MCO,0.00114,US6153691059,59.62,55.64,60.17,64.06,Financial Svcs. (Non-bank & Insurance),Moody's Corporation (NYSE:MCO)
+MDLZ,0.002546,US6092071058,63.23,59.72,56.65,73.26,Food Processing,"Mondelez International, Inc. (NasdaqGS:MDLZ)"
+MDT,0.005443,IE00BTN1Y115,65.48,65.0,58.79,78.1,Healthcare Products,Medtronic plc (NYSE:MDT)
+MET,0.0018850000000000002,US59156R1086,61.17,55.62,63.78,65.42,Insurance (Life),"MetLife, Inc. (NYSE:MET)"
+MGM,0.000558,US5529531015,55.16,62.02,51.25,54.31,Hotel/Gaming,MGM Resorts International (NYSE:MGM)
+MHK,0.00044400000000000006,US6081901042,52.78,57.99,48.98,53.39,Furn/Home Furnishings,"Mohawk Industries, Inc. (NYSE:MHK)"
+MKC,0.0006450000000000001,US5797802064,65.39,69.04,56.6,72.83,Food Processing,"McCormick & Company, Incorporated (NYSE:MKC)"
+MLM,0.000466,US5732841060,51.75,60.45,49.32,48.43,Construction Supplies,"Martin Marietta Materials, Inc. (NYSE:MLM)"
+MMC,0.001714,US5717481023,63.72,62.0,67.15,62.25,Insurance (General),"Marsh & McLennan Companies, Inc. (NYSE:MMC)"
+MMM,0.0050420000000000005,US88579Y1010,65.84,71.75,69.51,58.92,Diversified,3M Company (NYSE:MMM)
+MNST,0.000924,US61174X1090,41.41,47.41,36.87,42.33,Beverage (Soft),Monster Beverage Corporation (NasdaqGS:MNST)
+MO,0.004601,US02209S1033,60.75,71.08,53.15,62.07,Tobacco,"Altria Group, Inc. (NYSE:MO)"
+MOS,0.00046399999999999995,US61945C1036,58.89,68.75,60.93,50.95,Chemical (Specialty),The Mosaic Company (NYSE:MOS)
+MPC,0.001506,US56585A1025,60.28,66.85,61.45,54.25,Oilfield Svcs/Equip.,Marathon Petroleum Corporation (NYSE:MPC)
+MRK,0.007706,US58933Y1055,67.47,66.37,66.57,70.41,Drugs (Pharmaceutical),"Merck & Co., Inc. (NYSE:MRK)"
+MRO,0.00082,US5658491064,60.88,61.8,60.15,61.06,Oil/Gas (Production and Exploration),Marathon Oil Corporation (NYSE:MRO)
+MS,0.0025039999999999997,US6174464486,61.87,49.99,59.58,79.33,Brokerage & Investment Banking,Morgan Stanley (NYSE:MS)
+MSCI,0.0006580000000000001,US55354G1004,60.89,63.95,74.27,42.74,Financial Svcs. (Non-bank & Insurance),MSCI Inc. (NYSE:MSCI)
+MSFT,0.035914,US5949181045,73.92,71.35,70.74,80.83,Software (System & Application),Microsoft Corporation (NasdaqGS:MSFT)
+MSI,0.000837,US6200763075,73.24,63.49,70.25,81.94,Telecom. Equipment,"Motorola Solutions, Inc. (NYSE:MSI)"
+MTB,0.000964,US55261F1049,48.09,48.17,59.63,35.67,Banks (Regional),M&T Bank Corporation (NYSE:MTB)
+MTD,0.00064,US5926881054,65.0,71.06,51.97,81.17,Heathcare Information and Technology,Mettler-Toledo International Inc. (NYSE:MTD)
+MU,0.0021100000000000003,US5951121038,62.76,65.19,67.54,57.07,Semiconductor,"Micron Technology, Inc. (NasdaqGS:MU)"
+MYL,0.000754,NL0011031208,52.73,49.22,46.8,67.64,Drugs (Pharmaceutical),Mylan N.V. (NasdaqGS:MYL)
+NBL,0.000617,US6550441058,66.03,64.6,74.64,57.22,Oil/Gas (Production and Exploration),"Noble Energy, Inc. (NasdaqGS:NBL)"
+NCLH,0.000469,BMG667211046,50.51,63.32,51.16,41.93,Hotel/Gaming,Norwegian Cruise Line Holdings Ltd. (NYSE:NCLH)
+NDAQ,0.00040599999999999995,US6311031081,48.98,49.01,53.52,44.1,Financial Svcs. (Non-bank & Insurance),"Nasdaq, Inc. (NasdaqGS:NDAQ)"
+NEE,0.0031899999999999997,US65339F1012,66.92,69.62,78.94,57.41,Power,"NextEra Energy, Inc. (NYSE:NEE)"
+NEM,0.0006519999999999999,US6516391066,73.5,88.56,68.19,68.8,Precious Metals,Newmont Goldcorp Corporation (NYSE:NEM)
+NFLX,0.006729000000000001,US64110L1061,41.45,45.5,40.99,39.07,Entertainment,"Netflix, Inc. (NasdaqGS:NFLX)"
+NFX,0.000233,US6512901082,65.24,70.3,66.47,60.22,,
+NI,0.000365,US65473P1057,72.0,78.65,68.98,70.32,Utility (General),NiSource Inc. (NYSE:NI)
+NKE,0.004381,US6541061031,64.42,57.26,57.2,77.79,Shoe,"NIKE, Inc. (NYSE:NKE)"
+NKTR,0.000396,US6402681083,,,,,Drugs (Pharmaceutical),Nektar Therapeutics (NasdaqGS:NKTR)
+NLSN,0.0004,GB00BWFY5505,68.82,68.95,71.23,66.63,Business & Consumer Services,Nielsen Holdings plc (NYSE:NLSN)
+NOC,0.002238,US6668071029,66.98,79.0,62.32,61.34,Aerospace/Defense,Northrop Grumman Corporation (NYSE:NOC)
+NOV,0.000677,US6370711011,55.36,59.9,49.43,57.71,Oilfield Svcs/Equip.,"National Oilwell Varco, Inc. (NYSE:NOV)"
+NRG,0.000462,US6293775085,64.45,69.99,64.82,61.13,Power,"NRG Energy, Inc. (NYSE:NRG)"
+NSC,0.0021030000000000003,US6558441084,51.62,65.85,46.06,47.82,Transportation (Railroads),Norfolk Southern Corporation (NYSE:NSC)
+NTAP,0.0009050000000000001,US64110D1046,65.63,59.65,67.97,67.31,Computers/Peripherals,"NetApp, Inc. (NasdaqGS:NTAP)"
+NTRS,0.000938,US6658591044,66.68,73.33,62.26,63.0,Investments & Asset Management,Northern Trust Corporation (NasdaqGS:NTRS)
+NUE,0.000824,US6703461052,49.67,53.88,40.08,57.61,Steel,Nucor Corporation (NYSE:NUE)
+NVDA,0.007127,US67066G1040,75.08,70.39,71.97,80.73,Semiconductor,NVIDIA Corporation (NasdaqGS:NVDA)
+NWL,0.000359,US6512291062,53.43,60.5,50.68,51.53,Household Products,Newell Brands Inc. (NasdaqGS:NWL)
+NWS,6.3e-05,US65249B2088,,,,,,
+NWSA,0.000202,US65249B1098,54.24,50.98,48.86,68.24,Publishing & Newspapers,News Corporation (NasdaqGS:NWSA)
+O,0.000665,US7561091049,45.74,55.72,41.93,41.12,R.E.I.T.,Realty Income Corporation (NYSE:O)
+OKE,0.001142,US6826801036,64.01,76.68,63.13,55.99,Oil/Gas Distribution,"ONEOK, Inc. (NYSE:OKE)"
+OMC,0.000624,US6819191064,53.92,65.15,47.12,56.28,Advertising,Omnicom Group Inc. (NYSE:OMC)
+ORCL,0.005929,US68389X1054,69.27,56.55,66.42,84.17,Software (System & Application),Oracle Corporation (NYSE:ORCL)
+ORLY,0.001141,US67103H1077,47.16,62.14,47.32,36.29,Retail (Automotive),"O'Reilly Automotive, Inc. (NasdaqGS:ORLY)"
+OXY,0.002565,US6745991058,68.09,60.55,87.88,50.86,Oil/Gas (Integrated),Occidental Petroleum Corporation (NYSE:OXY)
+PAYX,0.00095,US7043261079,46.18,66.55,37.65,42.0,Information Services,"Paychex, Inc. (NasdaqGS:PAYX)"
+PBCT,0.000236,US7127041058,49.71,54.35,58.54,34.42,Banks (Regional),"People's United Financial, Inc. (NasdaqGS:PBCT)"
+PCAR,0.000978,US6937181088,53.52,58.95,42.47,59.78,Construction Supplies,PACCAR Inc (NasdaqGS:PCAR)
+PCG,0.0009539999999999999,US69331C1080,74.33,77.55,70.5,75.1,Power,PG&E Corporation (NYSE:PCG)
+PEG,0.001072,US7445731067,69.01,73.35,75.07,62.55,Utility (General),Public Service Enterprise Group Incorporated (NYSE:PEG)
+PEP,0.006343,US7134481081,67.27,74.7,58.96,71.46,Beverage (Soft),"PepsiCo, Inc. (NasdaqGS:PEP)"
+PFE,0.010514,US7170811035,59.02,68.47,51.06,62.0,Drugs (Pharmaceutical),Pfizer Inc. (NYSE:PFE)
+PFG,0.000629,US74251V1026,62.58,68.7,63.27,54.08,Insurance (Life),"Principal Financial Group, Inc. (NasdaqGS:PFG)"
+PG,0.008437,US7427181091,64.91,63.35,63.03,68.17,Household Products,The Procter & Gamble Company (NYSE:PG)
+PGR,0.0016589999999999999,US7433151039,52.22,56.59,59.12,39.33,Insurance (Prop/Cas.),The Progressive Corporation (NYSE:PGR)
+PH,0.00099,US7010941042,59.27,57.55,51.54,67.09,Machinery,Parker-Hannifin Corporation (NYSE:PH)
+PHM,0.000266,US7458671010,49.43,59.88,45.81,46.11,Homebuilding,"PulteGroup, Inc. (NYSE:PHM)"
+PKG,0.00041799999999999997,US6951561090,58.89,56.85,56.83,61.98,Packaging & Container,Packaging Corporation of America (NYSE:PKG)
+PKI,0.000429,US7140461093,53.32,57.12,42.21,68.79,Heathcare Information and Technology,"PerkinElmer, Inc. (NYSE:PKI)"
+PLD,0.001704,US74340W1036,79.84,75.61,70.42,90.08,R.E.I.T.,"Prologis, Inc. (NYSE:PLD)"
+PM,0.0051530000000000005,US7181721090,65.56,63.13,57.91,76.04,Tobacco,Philip Morris International Inc. (NYSE:PM)
+PNC,0.002558,US6934751057,63.17,58.62,63.73,68.33,Banks (Regional),"The PNC Financial Services Group, Inc. (NYSE:PNC)"
+PNR,0.000288,IE00BLS09M33,61.62,64.25,57.02,64.0,Machinery,Pentair plc (NYSE:PNR)
+PNW,0.000356,US7234841010,69.32,67.45,70.25,69.73,Power,Pinnacle West Capital Corporation (NYSE:PNW)
+PPG,0.001076,US6935061076,63.52,61.26,71.18,58.23,Chemical (Specialty),"PPG Industries, Inc. (NYSE:PPG)"
+PPL,0.0008289999999999999,US69351T1060,65.19,73.45,70.07,57.35,Power,PPL Corporation (NYSE:PPL)
+PRGO,0.000375,IE00BGH1M568,52.89,57.38,43.82,63.84,Drugs (Pharmaceutical),Perrigo Company plc (NYSE:PRGO)
+PRU,0.001719,US7443201022,72.62,69.81,69.05,80.0,Insurance (Life),"Prudential Financial, Inc. (NYSE:PRU)"
+PSA,0.001202,US74460D1090,46.84,58.53,40.35,42.93,R.E.I.T.,Public Storage (NYSE:PSA)
+PSX,0.0019809999999999997,US7185461040,55.49,65.89,58.94,44.13,Oilfield Svcs/Equip.,Phillips 66 (NYSE:PSX)
+PVH,0.000439,US6936561009,61.02,61.84,57.21,64.79,Apparel,PVH Corp. (NYSE:PVH)
+PWR,0.000199,US74762E1029,49.9,57.67,47.89,44.81,Engineering/Construction,"Quanta Services, Inc. (NYSE:PWR)"
+PX,0.001955,US74005P1049,77.35,76.57,79.87,75.63,,
+PXD,0.001224,US7237871071,54.66,59.31,54.74,51.26,Oil/Gas (Production and Exploration),Pioneer Natural Resources Company (NYSE:PXD)
+PYPL,0.0042,US70450Y1038,53.16,49.45,55.79,52.32,Information Services,"PayPal Holdings, Inc. (NasdaqGS:PYPL)"
+QCOM,0.004136,US7475251036,72.14,63.95,75.44,74.37,Semiconductor,QUALCOMM Incorporated (NasdaqGS:QCOM)
+QRVO,0.000389,US74736K1016,57.53,61.25,61.72,51.56,Semiconductor,"Qorvo, Inc. (NasdaqGS:QRVO)"
+RCL,0.0008900000000000001,LR0008862868,72.19,75.69,66.18,75.25,Hotel/Gaming,Royal Caribbean Cruises Ltd. (NYSE:RCL)
+RE,0.000366,BMG3223R1088,46.88,48.91,56.24,34.33,Reinsurance,"Everest Re Group, Ltd. (NYSE:RE)"
+REG,0.000443,US7588491032,53.21,63.44,42.01,53.93,R.E.I.T.,Regency Centers Corporation (NasdaqGS:REG)
+REGN,0.0012289999999999998,US75886F1075,59.56,61.33,46.84,80.33,Drugs (Biotechnology),"Regeneron Pharmaceuticals, Inc. (NasdaqGS:REGN)"
+RF,0.000817,US7591EP1005,54.98,53.62,59.53,51.83,Banks (Regional),Regions Financial Corporation (NYSE:RF)
+RHI,0.000357,US7703231032,45.76,58.55,40.51,42.38,Business & Consumer Services,Robert Half International Inc. (NYSE:RHI)
+RHT,0.0009550000000000001,US7565771026,48.55,57.7,45.83,45.0,,
+RJF,0.000491,US7547301090,48.68,54.13,53.79,36.33,Brokerage & Investment Banking,"Raymond James Financial, Inc. (NYSE:RJF)"
+RL,0.000308,US7512121010,55.09,59.74,55.3,51.52,Apparel,Ralph Lauren Corporation (NYSE:RL)
+RMD,0.000661,US7611521078,63.68,57.62,68.5,62.3,Healthcare Products,ResMed Inc. (NYSE:RMD)
+ROK,0.000951,US7739031091,63.87,66.85,64.36,61.58,Electrical Equipment,"Rockwell Automation, Inc. (NYSE:ROK)"
+ROL,0.00023500000000000002,US7757111049,46.37,60.8,48.33,35.63,Environmental & Waste Services,"Rollins, Inc. (NYSE:ROL)"
+ROP,0.001242,US7766961061,57.47,65.05,58.19,52.11,Diversified,"Roper Technologies, Inc. (NYSE:ROP)"
+ROST,0.001504,US7782961038,56.43,68.15,51.92,53.22,Retail (Special Lines),"Ross Stores, Inc. (NasdaqGS:ROST)"
+RSG,0.00064,US7607591002,55.08,73.95,41.27,55.38,Environmental & Waste Services,"Republic Services, Inc. (NYSE:RSG)"
+RTN,0.002402,US7551115071,61.73,59.0,58.13,67.67,Aerospace/Defense,Raytheon Company (NYSE:RTN)
+SBAC,0.00073,US78410G1040,40.98,45.24,38.7,39.5,R.E.I.T.,SBA Communications Corporation (NasdaqGS:SBAC)
+SBUX,0.003037,US8552441094,68.29,60.05,72.71,69.56,Restaurant/Dining,Starbucks Corporation (NasdaqGS:SBUX)
+SCG,0.00021099999999999998,US80589M1027,52.78,66.35,55.9,43.15,,
+SCHW,0.002414,US8085131055,52.14,50.6,58.94,46.83,Brokerage & Investment Banking,The Charles Schwab Corporation (NYSE:SCHW)
+SEE,0.000269,US81211K1007,58.87,63.09,52.36,61.93,Packaging & Container,Sealed Air Corporation (NYSE:SEE)
+SHW,0.001516,US8243481061,59.34,65.12,54.87,59.63,Chemical (Specialty),The Sherwin-Williams Company (NYSE:SHW)
+SIVB,0.000666,US78486Q1013,49.86,52.32,59.37,36.58,Banks (Regional),SVB Financial Group (NasdaqGS:SIVB)
+SJM,0.000469,US8326964058,63.47,65.69,53.07,73.76,Food Processing,The J. M. Smucker Company (NYSE:SJM)
+SLB,0.003453,AN8068571086,65.5,71.54,64.76,62.37,Oilfield Svcs/Equip.,Schlumberger Limited (NYSE:SLB)
+SLG,0.00035099999999999997,US78440X1019,60.81,65.41,50.2,65.31,R.E.I.T.,SL Green Realty Corp. (NYSE:SLG)
+SNA,0.000421,US8330341012,52.58,58.5,50.15,51.0,Machinery,Snap-on Incorporated (NYSE:SNA)
+SNPS,0.000584,US8716071076,52.9,61.09,44.85,58.17,Software (System & Application),"Synopsys, Inc. (NasdaqGS:SNPS)"
+SO,0.0017739999999999998,US8425871071,59.75,67.85,57.41,56.81,Power,The Southern Company (NYSE:SO)
+SPG,0.0022129999999999997,US8288061091,57.57,62.45,52.41,57.78,R.E.I.T.,"Simon Property Group, Inc. (NYSE:SPG)"
+SPGI,0.00203,US78409V1044,72.24,71.67,72.27,72.94,Financial Svcs. (Non-bank & Insurance),S&P Global Inc. (NYSE:SPGI)
+SRCL,0.000198,US8589121081,48.06,56.85,42.42,47.5,Environmental & Waste Services,"Stericycle, Inc. (NasdaqGS:SRCL)"
+SRE,0.001261,US8168511090,68.85,75.59,78.67,58.56,Utility (General),Sempra Energy (NYSE:SRE)
+STI,0.001243,US8679141031,48.73,55.06,52.82,36.33,,
+STT,0.001315,US8574771031,72.93,73.77,64.37,80.99,Investments & Asset Management,State Street Corporation (NYSE:STT)
+STX,0.0004969999999999999,IE00B58JVZ52,76.63,72.0,77.44,78.81,Computers/Peripherals,Seagate Technology plc (NasdaqGS:STX)
+STZ,0.001444,US21036P1084,52.56,59.42,53.46,46.66,Beverage (Alcoholic),"Constellation Brands, Inc. (NYSE:STZ)"
+SWK,0.000916,US8545021011,64.14,59.85,57.13,72.93,Machinery,"Stanley Black & Decker, Inc. (NYSE:SWK)"
+SWKS,0.000674,US83088M1027,60.74,55.6,69.64,56.16,Semiconductor,"Skyworks Solutions, Inc. (NasdaqGS:SWKS)"
+SYF,0.000869,US87165B1035,49.94,53.94,57.32,37.0,Financial Svcs. (Non-bank & Insurance),Synchrony Financial (NYSE:SYF)
+SYK,0.002246,US8636671013,51.0,47.75,46.39,63.2,Healthcare Products,Stryker Corporation (NYSE:SYK)
+SYMC,0.000521,US8715031089,71.7,70.55,75.03,67.67,,
+SYY,0.001415,US8718291078,61.66,66.78,53.69,67.11,Food Wholesalers,Sysco Corporation (NYSE:SYY)
+T,0.009853,US00206R1023,65.5,69.19,53.43,80.49,Telecom. Services,AT&T Inc. (NYSE:T)
+TAP,0.00045599999999999997,US60871R2094,68.34,69.08,72.5,63.07,Beverage (Alcoholic),Molson Coors Brewing Company (NYSE:TAP)
+TDG,0.000734,US8936411003,51.12,61.89,45.87,47.13,Aerospace/Defense,TransDigm Group Incorporated (NYSE:TDG)
+TEL,0.001224,CH0102993182,66.08,71.95,65.81,62.65,Electronics (General),TE Connectivity Ltd. (NYSE:TEL)
+TGT,0.0019010000000000001,US87612E1064,59.95,68.79,48.34,66.91,Retail (General),Target Corporation (NYSE:TGT)
+TIF,0.000567,US8865471085,57.32,63.95,59.51,50.07,Retail (Special Lines),Tiffany & Co. (NYSE:TIF)
+TJX,0.0028469999999999997,US8725401090,62.57,65.78,56.88,66.79,Retail (Special Lines),"The TJX Companies, Inc. (NYSE:TJX)"
+TMK,0.000363,US8910271043,48.96,52.14,57.89,35.42,,
+TMO,0.004055,US8835561023,59.41,59.72,52.11,72.18,Heathcare Information and Technology,Thermo Fisher Scientific Inc. (NYSE:TMO)
+TPR,0.000584,US8760301072,60.04,68.25,57.28,57.33,Apparel,"Tapestry, Inc. (NYSE:TPR)"
+TRIP,0.000212,US8969452015,44.9,51.74,42.54,42.71,Software (Entertainment),"TripAdvisor, Inc. (NasdaqGS:TRIP)"
+TROW,0.0010789999999999999,US74144T1088,63.77,72.42,61.52,55.21,Investments & Asset Management,"T. Rowe Price Group, Inc. (NasdaqGS:TROW)"
+TRV,0.001413,US89417E1091,57.25,54.2,63.06,54.92,Insurance (Prop/Cas.),"The Travelers Companies, Inc. (NYSE:TRV)"
+TSCO,0.00044400000000000006,US8923561067,56.29,73.45,45.76,56.07,Retail (Special Lines),Tractor Supply Company (NasdaqGS:TSCO)
+TSN,0.0007059999999999999,US9024941034,54.19,57.45,50.14,56.48,Food Processing,"Tyson Foods, Inc. (NYSE:TSN)"
+TSS,0.000672,US8919061098,50.31,60.55,47.5,46.0,,
+TTWO,0.000633,US8740541094,47.05,59.28,43.61,42.0,Entertainment,"Take-Two Interactive Software, Inc. (NasdaqGS:TTWO)"
+TWTR,0.000826,US90184L1026,51.89,55.32,56.57,42.0,Software (Entertainment),"Twitter, Inc. (NYSE:TWTR)"
+TXN,0.004253,US8825081040,74.88,64.62,77.6,78.9,Semiconductor,Texas Instruments Incorporated (NasdaqGS:TXN)
+TXT,0.000722,US8832031012,58.59,70.03,55.9,51.46,Aerospace/Defense,Textron Inc. (NYSE:TXT)
+UA,0.000147,US9043112062,,,,,,
+UAA,0.00015800000000000002,US9043111072,55.46,61.76,57.88,48.2,Apparel,"Under Armour, Inc. (NYSE:UAA)"
+UAL,0.000813,US9100471096,52.1,63.95,45.26,51.46,Air Transport,"United Airlines Holdings, Inc. (NasdaqGS:UAL)"
+UDR,0.00043099999999999996,US9026531049,50.83,54.69,44.19,52.92,R.E.I.T.,"UDR, Inc. (NYSE:UDR)"
+UHS,0.000455,US9139031002,46.46,44.1,43.74,54.2,Hospitals/Healthcare Facilities,"Universal Health Services, Inc. (NYSE:UHS)"
+ULTA,0.000656,US90384S3031,51.39,68.65,48.07,42.86,Retail (Special Lines),"Ulta Beauty, Inc. (NasdaqGS:ULTA)"
+UNH,0.010493,US91324P1021,62.91,69.13,52.55,74.1,Healthcare Support Services,UnitedHealth Group Incorporated (NYSE:UNH)
+UNM,0.000359,US91529Y1064,51.0,51.63,54.71,46.25,Insurance (Life),Unum Group (NYSE:UNM)
+UNP,0.00492,US9078181081,58.4,72.65,53.78,53.5,Transportation (Railroads),Union Pacific Corporation (NYSE:UNP)
+UPS,0.0033,US9113121068,61.97,66.35,57.76,63.66,Transportation,"United Parcel Service, Inc. (NYSE:UPS)"
+URI,0.000545,US9113631090,60.19,68.0,54.28,61.37,Retail (Distributors),"United Rentals, Inc. (NYSE:URI)"
+USB,0.0032770000000000004,US9029733048,56.67,52.09,56.46,62.67,Bank (Money Center),U.S. Bancorp (NYSE:USB)
+UTX,0.004294,US9130171096,54.83,57.25,53.21,54.37,Aerospace/Defense,United Technologies Corporation (NYSE:UTX)
+V,0.010851999999999999,US92826C8394,65.15,67.55,57.14,75.17,Information Services,Visa Inc. (NYSE:V)
+VAR,0.00042300000000000004,US92220P1057,63.58,57.5,61.52,74.6,Healthcare Products,"Varian Medical Systems, Inc. (NYSE:VAR)"
+VFC,0.001232,US9182041080,66.19,74.11,67.21,59.38,Apparel,V.F. Corporation (NYSE:VFC)
+VIAB,0.000462,US92553P2011,59.14,61.5,55.77,63.52,,
+VLO,0.001978,US91913Y1001,55.22,65.85,53.29,49.82,Oilfield Svcs/Equip.,Valero Energy Corporation (NYSE:VLO)
+VMC,0.000598,US9291601097,52.52,60.75,48.21,51.16,Construction Supplies,Vulcan Materials Company (NYSE:VMC)
+VNO,0.000504,US9290421091,60.63,68.06,39.47,70.92,R.E.I.T.,Vornado Realty Trust (NYSE:VNO)
+VRSK,0.0008039999999999999,US92345Y1064,59.91,69.99,55.03,57.88,Business & Consumer Services,"Verisk Analytics, Inc. (NasdaqGS:VRSK)"
+VRSN,0.000696,US92343E1029,48.73,54.5,47.46,45.83,Software (Internet),"VeriSign, Inc. (NasdaqGS:VRSN)"
+VRTX,0.001983,US92532F1003,45.9,51.78,39.75,49.91,Drugs (Biotechnology),Vertex Pharmaceuticals Incorporated (NasdaqGS:VRTX)
+VTR,0.000775,US92276F1003,67.39,64.82,59.14,75.53,R.E.I.T.,"Ventas, Inc. (NYSE:VTR)"
+VZ,0.009012000000000001,US92343V1044,69.65,76.85,57.09,82.47,Telecom. Services,Verizon Communications Inc. (NYSE:VZ)
+WAT,0.000618,US9418481035,50.47,56.93,38.9,63.56,Heathcare Information and Technology,Waters Corporation (NYSE:WAT)
+WBA,0.00249,US9314271084,61.82,65.94,59.59,61.44,Retail (Special Lines),"Walgreens Boots Alliance, Inc. (NasdaqGS:WBA)"
+WCG,0.000638,US94946T1060,51.06,67.2,41.33,49.2,Healthcare Support Services,"WellCare Health Plans, Inc. (NYSE:WCG)"
+WDC,0.0007,US9581021055,63.42,66.84,61.72,62.76,Computers/Peripherals,Western Digital Corporation (NasdaqGS:WDC)
+WEC,0.0008470000000000001,US92939U1060,63.92,70.95,66.72,58.16,Utility (General),"WEC Energy Group, Inc. (NYSE:WEC)"
+WELL,0.000949,US95040Q1040,66.15,69.34,63.13,66.02,R.E.I.T.,Welltower Inc. (NYSE:WELL)
+WFC,0.009174,US9497461015,57.48,41.2,53.18,82.67,Bank (Money Center),Wells Fargo & Company (NYSE:WFC)
+WHR,0.000306,US9633201069,54.5,59.65,54.87,50.39,Furn/Home Furnishings,Whirlpool Corporation (NYSE:WHR)
+WLTW,0.0007599999999999999,IE00BDB6Q211,51.18,56.18,53.38,42.51,Insurance (General),Willis Towers Watson Public Limited Company (NasdaqGS:WLTW)
+WM,0.001454,US94106L1098,64.46,70.19,53.91,70.13,Environmental & Waste Services,"Waste Management, Inc. (NYSE:WM)"
+WMB,0.001355,US9694571004,54.75,67.38,50.23,50.89,Oil/Gas Distribution,"The Williams Companies, Inc. (NYSE:WMB)"
+WMT,0.005497,US9311421039,57.6,59.48,46.53,68.92,Retail (General),Walmart Inc. (NYSE:WMT)
+WRK,0.000554,US96145D1054,58.83,63.75,58.81,55.77,Packaging & Container,WestRock Company (NYSE:WRK)
+WU,0.000352,US9598021098,46.0,50.85,44.3,44.5,Information Services,The Western Union Company (NYSE:WU)
+WY,0.0009720000000000001,US9621661043,73.12,81.49,71.84,69.01,R.E.I.T.,Weyerhaeuser Company (NYSE:WY)
+WYNN,0.0004969999999999999,US9831341071,47.72,59.25,39.75,47.5,Hotel/Gaming,"Wynn Resorts, Limited (NasdaqGS:WYNN)"
+XEC,0.000367,US1717981013,47.45,60.7,45.97,39.67,Oil/Gas (Production and Exploration),Cimarex Energy Co. (NYSE:XEC)
+XEL,0.0009660000000000001,US98389B1008,72.61,78.75,79.19,64.82,Power,Xcel Energy Inc. (NasdaqGS:XEL)
+XLNX,0.000817,US9839191015,68.18,62.25,68.49,71.61,Semiconductor,"Xilinx, Inc. (NasdaqGS:XLNX)"
+XOM,0.014718,US30231G1022,63.97,58.42,75.36,54.9,Oil/Gas (Integrated),Exxon Mobil Corporation (NYSE:XOM)
+XRAY,0.000348,US24906P1093,55.07,56.75,49.49,63.1,Healthcare Products,DENTSPLY SIRONA Inc. (NasdaqGS:XRAY)
+XRX,0.000244,US9841216081,68.36,61.69,66.97,76.0,Computers/Peripherals,Xerox Holdings Corporation (NYSE:XRX)
+XYL,0.000585,US98419M1009,77.5,71.25,72.34,85.9,Machinery,Xylem Inc. (NYSE:XYL)
+YUM,0.001178,US9884981013,53.32,61.39,45.63,55.0,Restaurant/Dining,"YUM! Brands, Inc. (NYSE:YUM)"
+ZBH,0.001064,US98956P1021,61.05,53.25,58.22,75.5,Healthcare Products,"Zimmer Biomet Holdings, Inc. (NYSE:ZBH)"
+ZION,0.000399,US9897011071,48.73,51.4,59.06,34.33,Banks (Regional),"Zions Bancorporation, National Association (NasdaqGS:ZION)"
+ZTS,0.001796,US98978V1035,51.09,61.71,41.33,55.91,Drugs (Pharmaceutical),Zoetis Inc. (NYSE:ZTS)
