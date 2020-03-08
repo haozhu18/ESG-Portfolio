@@ -78,7 +78,7 @@ def build_portfolio(cutoff, category=0, returns='returns'):
         esg_df = out[out['total_score']> esg_cutoff]
         non_esg_df = out[out['total_score'] <= esg_cutoff]
 
-    ret_2018 = ret[(ret['date'] >= 20180101) & (ret['date'] <= 20181231)]
+    ret_2018 = ret[(ret['date'] >= 20130101) & (ret['date'] <= 20181231)]
     num_trading_days = ret_2018['date'].unique().shape[0]
     ret_2018 = ret_2018[['date', 'TICKER', 'RET']]
     ret_2018['RET'] = ret_2018['RET'].astype('float64', copy=True)
@@ -103,7 +103,7 @@ def build_portfolio(cutoff, category=0, returns='returns'):
                                                 format='%Y%m%d'), inplace=True)
     
     for lambda_ in np.linspace(0, 1, 3):
-        esg_df['weight_esg'] = esg_df['weight']
+        esg_df['weight_esg'] = esg_df['weight'] * lambda_
         non_esg_df['weight_esg'] = non_esg_df['weight'] * (1 - lambda_ )
         full_df = esg_df.append(non_esg_df)
         full_df['weight_esg'] = full_df['weight_esg'] / full_df['weight_esg'].sum()
