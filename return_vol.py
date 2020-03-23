@@ -51,7 +51,7 @@ for lambda_ in np.linspace(0, 1, 11):
     annual_returns = full_df.groupby(full_df.index.year)['RET_esg'].sum()
     ann_return_cooler = (1 + annual_returns).prod() ** (1/6) - 1
     daily_port_ret = full_df.groupby(full_df.index.date)['RET_esg'].sum()
-    ann_vol = daily_port_ret.std() * (1 / (num_trading_days * 6)) ** (1 / 2)
+    ann_vol = daily_port_ret.std() * (num_trading_days ** 0.5)
     
     list_returns.append(ann_return_cooler)
     list_vols.append(ann_vol)
